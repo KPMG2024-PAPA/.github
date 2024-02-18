@@ -28,6 +28,7 @@
 
 ![PAPA](/assets/patent_process.png)
 ![PAPA](/assets/patent_difficulty.png)
+![PAPA](/assets/patent-easy.png)
 
 
 
@@ -35,8 +36,8 @@
 ### 1. **특허 명세서 작성 보조:** 
 AI 기반 언어 처리 기술을 활용하여 사용자가 보다 정확하고 전문적인 특허 명세서를 작성할 수 있도록 지원한다.
 
-![PAPA](/assets//1-passist.png)
-![PAPA](/assets//1-passist2.png)
+![PAPA](/assets/1-passist.png)
+![PAPA](/assets/1-passist2.png)
 
 ### 2. **유사도 판별:** 
 고급 데이터 분석을 통해 국내 및 해외 특허 데이터베이스 내 유사 특허를 식별하고, 출원 전략 수립에 필요한 정보를 제공한다.
@@ -55,8 +56,9 @@ AI 기반 언어 처리 기술을 활용하여 사용자가 보다 정확하고 
 유사도 계산:
 코사인 유사도로 1차 문서 분석 → GPT를 활용하여 산업분류코드 (IPC)로 2차 필터링
 
-![PAPA](/assets//2-p2psim.png)
-![PAPA](/assets//2-pipe.png)
+![PAPA](/assets/2-p2psim.png)
+![PAPA](/assets/2-pipe.png)
+![PAPA](/assets/2-cluster.png)
 
 
 
